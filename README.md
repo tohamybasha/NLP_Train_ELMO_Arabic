@@ -20,4 +20,4 @@ Trained on 700k arabic tweets.
 Used normal logistic regression to classify the test data.
 
 # Results 
-The results wasn't that good.
+It wasn't very good and data used wasn't enough.
